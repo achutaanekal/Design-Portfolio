@@ -10,7 +10,7 @@ const SecurityProjectScreen = () => {
       <ProjectScreenHeader />
       <section className="flex flex-col font-secondary text-text-dark px-[16px] lg:px-[80px]">
         <div className="container relative pt-[20px] lg:pt-[60px]">
-          <ScreenTitle title="Improving security posture for some of the most important institutions." />
+          <ScreenTitle title="Enhancing security posture for some of the most important institutions." />
 
           <img src="/images/project1/1.png" alt="project" className="hidden md:block w-full mb-[20px] lg:mb-[60px]" />
           <img
