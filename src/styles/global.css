@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body #root {
+  /* overflow-x: hidden; */
+  width: '100%';
+  max-width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: CartographCF;
+  src: url('/fonts/CartographCF/CartographCF-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: CartographCF;
+  src: url('/fonts/CartographCF/CartographCF-RegularItalic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: CartographCF;
+  src: url('/fonts/CartographCF/CartographCF-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: CartographCF;
+  src: url('/fonts/CartographCF/CartographCF-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: CartographCF;
+  src: url('/fonts/CartographCF/CartographCF-ExtraLight.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: CartographCF;
+  src: url('/fonts/CartographCF/CartographCF-ExtraLightItalic.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: CartographCF;
+  src: url('/fonts/CartographCF/CartographCF-Bold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: CartographCF;
+  src: url('/fonts/CartographCF/CartographCF-BoldItalic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Times;
+  src: url('/fonts/Times/TimesCG.otf') format('otf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Times;
+  src: url('/fonts/Times/TimesCGItalic.otf') format('otf');
+  font-weight: 400;
+  font-style: italic;
+}
