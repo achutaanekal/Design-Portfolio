@@ -20,7 +20,7 @@ export enum RoutePaths {
   Home = '/',
   About = '/about',
   SecurityProject = '/palantir',
-  BusinessProject = '/grap',
+  BusinessProject = '/grab',
   FinancialProject = '/angelone',
   DiscoveryProject = '/zillskill',
   DecentralizeProject = '/slice',
