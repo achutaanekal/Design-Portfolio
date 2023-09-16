@@ -12,7 +12,7 @@ const AboutScreen = () => {
   return (
     <MainScreenAnimation>
       <section className="px-[16px] lg:px-[40px]">
-        <div className="container relative">
+        <div className="container relative max-w:[1512px]">
           <div className="flex items-center justify-center pt-[88px] pb-[80px] lg:py-[200px] border-b border-border-main">
             <h1 className="text-[44px] leading-[44px] lg:text-[64px] lg:leading-[56px] text-black uppercase text-center max-w-[90%]">
               ACHUTA ANEKAL
