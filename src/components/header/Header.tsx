@@ -11,7 +11,7 @@ const Header = () => {
 
   return (
     <header>
-      <div className={`container h-full px-[16px] lg:px-[40px] ${padding}`}>
+      <div className={`container h-full px-[16px] lg:px-[40px] max-w:[1512px] ${padding}`}>
         <div className="flex items-center justify-between text-text-main h-full border-b border-b-border-main py-[14px] lg:py-[20px] z-50">
           <Logo />
           <DesktopMenu />

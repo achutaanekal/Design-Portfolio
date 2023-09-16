@@ -31,7 +31,7 @@ const Footer: FC<IProps> = props => {
 
   return (
     <footer className={`px-[16px] ${isProjects ? 'lg:px-[80px]' : 'md:px-[40px]'}`}>
-      <div className="container">
+      <div className="container max-w:[1512px]">
         {isProjects ? <>{renderContent()}</> : <div className="container">{renderContent()}</div>}
       </div>
     </footer>
