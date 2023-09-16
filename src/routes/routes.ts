@@ -19,11 +19,11 @@ export enum RouteNames {
 export enum RoutePaths {
   Home = '/',
   About = '/about',
-  SecurityProject = '/project-security',
-  BusinessProject = '/project-business',
-  FinancialProject = '/project-financial',
-  DiscoveryProject = '/project-discovery',
-  DecentralizeProject = '/project-decentralize',
+  SecurityProject = '/palantir',
+  BusinessProject = '/grap',
+  FinancialProject = '/angelone',
+  DiscoveryProject = '/zillskill',
+  DecentralizeProject = '/slice',
 }
 
 export const routes = [
