@@ -5,7 +5,7 @@ import ProjectsSection from './ProjectsSection';
 const HomeScreen = () => {
   return (
     <MainScreenAnimation>
-      <div className="container px-[16px] lg:px-[40px] max-w:[1512px]">
+      <div className="container px-[16px] lg:px-[40px] max-w-[1512px]">
         <HeroSection />
         <ProjectsSection />
       </div>
