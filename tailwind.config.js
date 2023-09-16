@@ -5,7 +5,7 @@ export default {
     container: {
       center: true,
       screens: {
-        '2xl': '1352',
+        '2xl': '1352px',
         // sm: '640px',
         // md: '768px',
         // lg: '1024px',
