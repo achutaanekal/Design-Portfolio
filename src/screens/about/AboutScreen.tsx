@@ -5,7 +5,7 @@ const socials = [
   { name: 'X', url: 'https://twitter.com/achutaanekal', mobileHidden: false },
   { name: 'Email', url: 'mailto:achutaanekal@gmail.com', mobileHidden: false },
   { name: 'Linkedin', url: 'https://www.linkedin.com/in/achutaanekal/', mobileHidden: false },
-  { name: 'Resume', url: '/Achuta Anekal A resume.pdf', mobileHidden: true },
+  { name: 'Resume', url: '/Achuta Anekal resume.pdf', mobileHidden: true },
 ];
 
 const AboutScreen = () => {

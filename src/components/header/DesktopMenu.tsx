@@ -28,7 +28,7 @@ const DesktopMenu = () => {
         </li>
         <li>
           <a
-            href="/Achuta Anekal A resume.pdf"
+            href="/Achuta Anekal resume.pdf"
             target="_blank"
             rel="nooper noreferrer"
             className="text-xs leading-3 tracking-wide font-normal hover:text-black transition-colors"

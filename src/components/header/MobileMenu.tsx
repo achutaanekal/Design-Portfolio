@@ -69,7 +69,7 @@ const MobileMenu = () => {
           </li>
           <li className="w-full">
             <a
-              href="/Achuta Anekal A resume.pdf"
+              href="/Achuta Anekal resume.pdf"
               target="_blank"
               rel="nooper noreferrer"
               className="flex items-center justify-center text-[20px] leading-[20px] tracking-wide w-full font-normal py-[20px] border-b border-border-main"
