@@ -12,7 +12,7 @@ const DiscoveryProjectScreen = () => {
       <ProjectScreenHeader />
       <section className="flex flex-col relative font-secondary text-text-dark px-[16px] lg:px-[80px]">
         <div className="container relative pt-[20px] lg:pt-[60px]">
-          <ScreenTitle title="Helping business owners across SE Asia increase reach, scale and revenue." />
+          <ScreenTitle title="NURTURING THE NEXT GENERATION BY HELPING THEM DISCOVER THEIR PASSION" />
 
           <img src="/images/project5/1.png" alt="project" className="hidden md:block w-full mb-[20px] lg:mb-[60px]" />
 
